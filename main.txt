@@ -3,3 +3,6 @@ $ vim ~/.bashrc
 alias c='clear'
 сохраняем и выходим из vim командой
 :wq
+обновляем конфигурацию
+$ source .bashrc
+$ echo $CD
